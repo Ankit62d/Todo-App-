@@ -1,2 +1,2 @@
-# Todo-App-
+# Todo-App
 MERN based application
